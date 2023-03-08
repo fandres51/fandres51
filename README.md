@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Flutter, Firebase, NextJS
-- 👯 I’m looking to collaborate on startups or open source projects
+- 👯 I’m looking to collaborate on startups and open source projects
 - 🤔 I’m looking for help with finding interesting ideas for projects
 - 💬 Ask me about anything I can help you with :)
 - 📫 How to reach me: fabio.and1514@gmail.com
