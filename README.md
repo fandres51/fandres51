@@ -1,7 +1,7 @@
 In love with technology as a tool for problem-solving.
 
-> My Current stack (and learning): Flutter 📱, NextJS 💻, Firebase 🔥.
-> Also like and use: Design Thinking 🤝, Figma ✏️, this site (Github).
+My Current stack (and learning): Flutter 📱, NextJS 💻, Firebase 🔥.
+Also like and use: Design Thinking 🤝, Figma ✏️, this site (Github).
 <!--
 ### Hi there 👋
 
