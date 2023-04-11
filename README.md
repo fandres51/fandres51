@@ -1,4 +1,4 @@
-In love with technology as a tool for problem-solving.
+Hi there, I love tech.
 
 \> My current stack (and learning): Flutter 📱, NextJS 💻, Firebase 🔥.  
 \> Also like and use: Design Thinking 🤝, Figma ✏️, this site (Github 🐈‍⬛).
