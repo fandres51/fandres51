@@ -1,4 +1,4 @@
-Hi there, I love tech.
+Hi there, I love tech
 
 \> My current stack (and learning): Flutter 📱, NextJS 💻, Firebase 🔥.  
 \> Also like and use: Design Thinking 🤝, Figma ✏️, this site (Github 🐈‍⬛).
