@@ -1,8 +1,8 @@
-Hi there, I love tech
+Hi there,
 
 \> 🔭 I am a software dev and digital marketing freelance   
-\> ⚡ My current stack: Flutter, TypeScript, React, Firebase, Figma, GitHub  
-\> 🌱 Now learning: Prompt Engineering (AI), Svelte, Express, Docker 
+\> ⚡ My current knowledge: Flutter, TypeScript, React, Firebase, Figma, GitHub  
+\> 🌱 I am now learning: Prompt Engineering (AI), Svelte, Express, Docker 
 <!--
 ### Hi there 👋
 
