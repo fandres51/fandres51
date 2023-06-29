@@ -1,7 +1,8 @@
 Hi there, I love tech
 
-\> My current stack (and learning): Flutter 📱, NextJS 💻, Firebase 🔥.  
-\> Also like and use: Design Thinking 🤝, Figma ✏️, this site (Github 🐈‍⬛).
+\> 🔭 I am a software developer and digital marketing freelance  
+\> ⚡ My current stack: Flutter, TypeScript, React, Firebase, Figma, GitHub  
+\> 🌱 Now learning: Prompt Engineering (AI), Svelte, Express, Docker 
 <!--
 ### Hi there 👋
 
