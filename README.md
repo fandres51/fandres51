@@ -1,6 +1,6 @@
 Hi there, I love tech
 
-\> 🔭 I am a freelance software developer and digital marketing
+\> 🔭 I am a freelance software developer and digital marketing  
 \> ⚡ My current stack: Flutter, TypeScript, React, Firebase, Figma, GitHub  
 \> 🌱 Now learning: Prompt Engineering (AI), Svelte, Express, Docker 
 <!--
