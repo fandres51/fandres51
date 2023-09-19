@@ -1,8 +1,5 @@
-Hi there,
+Hi there 👋
 
-\> 🔭 I am a software dev and marketing student  
-\> ⚡ My current knowledge: Flutter, TypeScript, React, Firebase, Figma, GitHub  
-\> 🌱 I am now learning: Prompt Engineering (AI), Svelte, Express, Docker 
 <!--
 ### Hi there 👋
 
