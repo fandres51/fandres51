@@ -15,7 +15,7 @@ and my TikTok, where I upload things not code-related (most of the time): [tikto
 
 ___
 Here are other contact and social links:  
-[Twitter](x.com/fandres51) (I refuse to call it X), [Reddit](), [Discord](), [LinkedIn](), [Stack Overflow]()  
+[Twitter](x.com/fandres51) (I refuse to call it X), [Reddit](), [Discord](), [LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Stack Overflow]()  
 
 <!--
 ### Hi there 👋
