@@ -1,4 +1,21 @@
-Hi there 👋
+Hi there 👋  
+I'm a Software Eng from Quito, Ecuador, graduated from Escuela Politécnica Nacional in 2022. I'm 27 y/o.
+
+Currently, I'm working on some personal and collective projects in different areas.  
+You can check my portfolio here:
+- 🕸️ [Web](https://github.com/stars/fandres51/lists/front-end-web-mobile)
+- 📱 [Mobile](https://github.com/stars/fandres51/lists/front-end-web-mobile)
+- 🎮 [Game Dev](https://github.com/stars/fandres51/lists/game-dev)
+- 🐍 [Data Science](https://github.com/stars/fandres51/lists/backend-iot)
+- 🐧 [Other](https://github.com/stars/fandres51/lists/ai-prompt-engineering)
+
+I'm currently creating my web page at [fandres51.com](https://www.fandres51.com/),   
+also my blog: [medium.com/@fandres51](https://medium.com/@fandres51),  
+and my TikTok, where I upload things not code-related (most of the time): [tiktok.com/@fandres51](https://www.tiktok.com/@fandres51)
+
+___
+Here are other contact and social links:  
+[Twitter](x.com/fandres51) (I refuse to call it X), [Reddit](), [Discord](), [LinkedIn](), [Stack Overflow]()  
 
 <!--
 ### Hi there 👋
