@@ -3,11 +3,11 @@ I'm a Software Eng from Quito, Ecuador, graduated from Escuela Politécnica Naci
 
 Currently, I'm working on some personal and collective projects in different areas.  
 You can check my portfolio here:
-- 🕸️ [Web](https://github.com/stars/fandres51/lists/front-end-web-mobile)
-- 📱 [Mobile](https://github.com/stars/fandres51/lists/front-end-web-mobile)
+- 🕸️ [Web](https://github.com/stars/fandres51/lists/web)
+- 📱 [Mobile](https://github.com/stars/fandres51/lists/mobile)
 - 🎮 [Game Dev](https://github.com/stars/fandres51/lists/game-dev)
-- 🐍 [Data Science](https://github.com/stars/fandres51/lists/backend-iot)
-- 🐧 [Other](https://github.com/stars/fandres51/lists/ai-prompt-engineering)
+- 🐍 [Data Science & IA](https://github.com/stars/fandres51/lists/data-science-ia)
+- 🐧 [Other](https://github.com/stars/fandres51/lists/other)
 
 I'm currently creating my web page at [fandres51.com](https://www.fandres51.com/),   
 also my blog: [medium.com/@fandres51](https://medium.com/@fandres51),  
@@ -15,7 +15,7 @@ and my TikTok, where I upload things not code-related (most of the time): [tikto
 
 ___
 Here are other contact and social links:  
-[Twitter](x.com/fandres51) (I refuse to call it X), [Reddit](), [Discord](), [LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Stack Overflow]()  
+[Twitter](x.com/fandres51) (I refuse to call it X), [LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s) 
 
 <!--
 ### Hi there 👋
