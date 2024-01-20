@@ -9,9 +9,8 @@ You can check my portfolio here:
 - 🐍 [Data Science & IA](https://github.com/stars/fandres51/lists/data-science-ia)
 - 🐧 [Other](https://github.com/stars/fandres51/lists/other)
 
-I'm currently creating my web page at [fandres51.com](https://www.fandres51.com/),   
-also my blog: [medium.com/@fandres51](https://medium.com/@fandres51),  
-and my TikTok, where I upload things not code-related (most of the time): [tiktok.com/@fandres51](https://www.tiktok.com/@fandres51)
+Also, I'm creating my [web page](https://www.fandres51.com/) and my [blog](https://medium.com/@fandres51).<!--,  
+and my [TikTok](https://www.tiktok.com/@fandres51), where I upload things not code-related (most of the time). -->
 
 ___
 Here are other contact and social links:  
