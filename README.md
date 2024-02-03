@@ -14,7 +14,7 @@ and my [TikTok](https://www.tiktok.com/@fandres51), where I'll upload code and n
 
 ___
 In case you want, here are other contact and social links:  
-[LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Twitter](x.com/fandres51) (I refuse to call it X), [Instagram](instagram.com/fandres51), [YouTube](youtube.com/@fandres51), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s).   
+[LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Twitter](x.com/fandres51) (I refuse to call it X), [Instagram](instagram.com/fandres51), [YouTube](youtube.com/@fandres51), [Reddit](https://www.reddit.com/user/fandres51), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s).   
 
 <!--
 ### Hi there 👋
