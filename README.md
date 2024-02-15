@@ -1,4 +1,4 @@
-Hi there 👋  
+Hi 👋,
 I'm a Software Eng from Quito, Ecuador, graduated from Escuela Politécnica Nacional in 2022. I'm 27 y/o.
 
 Currently, I'm working on different kinds of projects, so you can check my portfolio here:
