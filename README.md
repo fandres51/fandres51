@@ -10,7 +10,7 @@ Currently, I'm working on different kinds of projects, so you can check my portf
 
 Also, I'm creating my web page at [fandres51.com](https://www.fandres51.com/),  
 my blog at [medium.com/@fandres51](https://medium.com/@fandres51),  
-and my [TikTok](https://www.tiktok.com/@fandres51), where I'll upload code and not code-related stuff.  
+and my [Behance](https://www.behance.net/fandres51), where I upload not code-related stuff.  
 
 ___
 In case you want, here are other contact and social links:  
