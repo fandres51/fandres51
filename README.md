@@ -14,7 +14,7 @@ and my [Behance](https://www.behance.net/fandres51), where I upload not code-rel
 
 ___
 In case you want, here are other contact and social links:  
-[LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Twitter](https://x.com/fandres51) (I refuse to call it X), [Instagram](https://instagram.com/fandres51), [YouTube](https://youtube.com/@fandres51), [Reddit](https://www.reddit.com/user/fandres51), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s).   
+[LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Twitter](https://x.com/fandres51) (X), [Instagram](https://instagram.com/fandres51), [YouTube](https://youtube.com/@fandres51), [Reddit](https://www.reddit.com/user/fandres51), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s).   
 
 <!--
 ### Hi there 👋
