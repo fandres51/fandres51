@@ -1,20 +1,28 @@
-Hi 👋,  
-I'm a Software Eng from Quito, Ecuador, graduated from Escuela Politécnica Nacional in 2022.
+👋 Hi, I'm a software developer & UX designer based in Latin America
 
-Currently, I'm working on different kinds of projects, so you can check my portfolio here:
+I've worked on different types of projects as fullstack. Check some of them:   
 - 🕸️ [Web](https://github.com/stars/fandres51/lists/web)
 - 📱 [Mobile](https://github.com/stars/fandres51/lists/mobile)
 - 🎮 [Game Dev](https://github.com/stars/fandres51/lists/game-dev)
 - 🐍 [Data Science & IA](https://github.com/stars/fandres51/lists/data-science-ia)
 - 🐧 [Other](https://github.com/stars/fandres51/lists/other)
 
-Also, I'm creating my web page at [fandres51.com](https://www.fandres51.com/),  
-my blog at [medium.com/@fandres51](https://medium.com/@fandres51),  
-and my [Behance](https://www.behance.net/fandres51), where I upload not code-related stuff.  
+---
+
+I'm allways happy to recieve any message. Reach me at my email: 
+
+```
+fabio.and1514@gmail.com
+```
 
 ___
-In case you want, here are other contact and social links:  
-[LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/), [Twitter/X](https://x.com/fandres51), [Instagram](https://instagram.com/fandres51), [Reddit](https://www.reddit.com/user/fandres51), [Stack Overflow](https://stackoverflow.com/users/13711039/fabio-andr%c3%a9s).   
+Or follow me in other web sites:  
+- [LinkedIn](https://www.linkedin.com/in/fabio-andres-enriquez-476692194/)
+- [Behance (Design portfolio)](https://www.behance.net/fandres51)
+- [My blog](https://medium.com/@fandres51)
+- [My web page](https://www.fandres51.com/)
+
+
 
 <!--
 ### Hi there 👋
